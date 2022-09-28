@@ -78,7 +78,7 @@ Bu özellikle eldeki para her üç birime de tek seferde dönüştürülebilir.
 
 ## Proje Detayı
 
-Programda kullanıcı kaynaklı hatalar mesaj kutuları aracılığıyla kullanıcıya bilgilendirilerek engellenmiştir.
+Programda kullanıcı kaynaklı hatalar mesaj kutuları aracılığıyla kullanıcı bilgilendirilerek engellenmiştir.
 
 Eğer kullanıcı hesaplatmak istediği miktarı rakam harici değer ile girerse program takip eden uyarı mesajını verecektir.
 
