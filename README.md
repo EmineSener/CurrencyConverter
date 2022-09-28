@@ -25,7 +25,7 @@ Uygulama kur değerlerini sabit almaktadır,kur değerleri anlık olarak güncel
 
 Program çalıştırıldığında karşınıza ilk olarak aşağıda görüldüğü gibi bilgilendirme ekranı çıkacaktır.
 
-Bilgilendirmeyi okuduğunuzda `Back` butonuna tıklayarak bir sonraki aşamaya geçebilirsiniz.
+Bilgilendirmeyi okuduğunuzda `Next` butonuna tıklayarak bir sonraki aşamaya geçebilirsiniz.
 
 ![alt text](https://github.com/EmineSener/CurrencyConverter/blob/main/images/window1.png)
 
